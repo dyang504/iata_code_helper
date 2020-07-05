@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iata_code_helper/static/css/main.f9eb5fd0.chunk.css",
+    "main.js": "/iata_code_helper/static/js/main.bf2dada6.chunk.js",
+    "main.js.map": "/iata_code_helper/static/js/main.bf2dada6.chunk.js.map",
+    "runtime-main.js": "/iata_code_helper/static/js/runtime-main.5705d233.js",
+    "runtime-main.js.map": "/iata_code_helper/static/js/runtime-main.5705d233.js.map",
+    "static/js/2.11efe25b.chunk.js": "/iata_code_helper/static/js/2.11efe25b.chunk.js",
+    "static/js/2.11efe25b.chunk.js.map": "/iata_code_helper/static/js/2.11efe25b.chunk.js.map",
+    "index.html": "/iata_code_helper/index.html",
+    "precache-manifest.b9ffab1ea3633bd423e687f1a7f1bb4e.js": "/iata_code_helper/precache-manifest.b9ffab1ea3633bd423e687f1a7f1bb4e.js",
+    "service-worker.js": "/iata_code_helper/service-worker.js",
+    "static/css/main.f9eb5fd0.chunk.css.map": "/iata_code_helper/static/css/main.f9eb5fd0.chunk.css.map",
+    "static/js/2.11efe25b.chunk.js.LICENSE.txt": "/iata_code_helper/static/js/2.11efe25b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5705d233.js",
+    "static/js/2.11efe25b.chunk.js",
+    "static/css/main.f9eb5fd0.chunk.css",
+    "static/js/main.bf2dada6.chunk.js"
+  ]
+}
